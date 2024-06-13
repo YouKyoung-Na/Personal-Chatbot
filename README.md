@@ -1,8 +1,6 @@
 # Personal-Chatbot
-**<2024년도 1학기 자연어처리>** 
+**<2024년도 1학기 자연어처리>**    
 해당 레포지토리는 KoGPT2 모델을 이용하여 개인의 스타일을 반영한 개인화 챗봇과 관련된다.
-
-&nbsp;
 
 ### Contributor
 문성수(dalcw@jnu.ac.kr), 나유경(me6zero@jnu.ac.kr)
