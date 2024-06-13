@@ -19,8 +19,8 @@ pip3 install pytorch
 ├── dataset
 │   └── README.md
 ├── model_weight
-│   ├── README.md
 │   ├── train/
+│   ├── README.md
 │   ├── backbone.pt
 │   └── personal_finetuning.pt
 ├── README.md
