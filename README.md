@@ -14,6 +14,27 @@ pip install -r requirements.txt
 ```
 pip3 install pytorch
 ```
+## folder 구조
+```bash
+├── dataset
+│   └── dataset.md
+├── model_weight
+│   ├── train/
+│   ├── backbone.pt
+│   ├── model_weight.md
+│   └── personal_finetuning.pt
+├── README.md
+├── finetuning_datagen.py
+├── inference.py
+├── main.py
+├── preprocessing.py
+├── requirements.txt
+├── setting.json
+└── training.py
+``` 
+
+## Download weight file
+
 
 ## Discord server
 디스코드 서버를 실행하는 명령어는 다음과 같다. 모델의 가중치는 model_weight에 저장되어 있어야 한다.
