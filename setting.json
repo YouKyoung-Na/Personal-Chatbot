@@ -1,0 +1,11 @@
+{
+    "discord": {
+        "TOKEN": "",
+        "CHANNELID": ""
+    },
+
+    "model": {
+        "backbone": "backbone.pth",
+        "finetuning": "finetuning.pth"
+    }
+}
