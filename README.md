@@ -5,8 +5,6 @@
 ## Contributor
 문성수(dalcw@jnu.ac.kr), 나유경(me6zero@jnu.ac.kr)
 
-&nbsp;
-
 ## Installation
 ```
 pip install -r requirements.txt
@@ -16,14 +14,12 @@ pip install -r requirements.txt
 ```
 pip3 install pytorch
 ```
-&nbsp;
 
 ## Discord server
 디스코드 서버를 실행하는 명령어는 다음과 같다. 모델의 가중치는 model_weight에 저장되어 있어야 한다.
 ```
 python3 main.py --weight [model weight]
 ```
-&nbsp;
 
 ## Model training
 새로운 모델을 학습시키기 위한 코드는 다음과 같다. 모델의 학습 가중치는 model weight/train에 저장된다.
