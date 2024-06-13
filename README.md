@@ -13,9 +13,9 @@ pip install -r requirements.txt
 
 ## Directory Structure
 ```bash
-├── dataset
+├── dataset/
 │   └── README.md
-├── model_weight
+├── model_weight/
 │   ├── train/
 │   ├── README.md
 │   ├── backbone.pt
