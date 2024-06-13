@@ -10,7 +10,7 @@
 pip install -r requirements.txt
 ```
 
-본인 컴퓨터 버전에 맞는 pytorch 설치 (https://pytorch.org/ 참고)
+본인 컴퓨터 버전에 맞는 [pytorch](https://pytorch.org/) 설
 ```
 pip3 install pytorch
 ```
