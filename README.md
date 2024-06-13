@@ -6,14 +6,11 @@
 문성수(dalcw@jnu.ac.kr), 나유경(me6zero@jnu.ac.kr)
 
 ## Installation
+먼저 본인 컴퓨터 버전에 맞는 [Pytorch](https://pytorch.org/) 설치하고, 아래의 명령어를 실행한다.
 ```
 pip install -r requirements.txt
 ```
 
-본인 컴퓨터 버전에 맞는 [Pytorch](https://pytorch.org/) 설치
-```
-pip3 install pytorch
-```
 ## Directory Structure
 ```bash
 ├── dataset
