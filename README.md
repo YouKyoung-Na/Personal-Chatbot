@@ -2,10 +2,11 @@
 **<2024년도 1학기 자연어처리>** 
 해당 레포지토리는 KoGPT2 모델을 이용하여 개인의 스타일을 반영한 개인화 챗봇과 관련된다.
 
+&nbsp;
+
 ### Contributor
 문성수(dalcw@jnu.ac.kr), 나유경(me6zero@jnu.ac.kr)
 
-&nbsp;
 &nbsp;
 
 ### Installation
@@ -13,11 +14,10 @@
 pip install -r requirements.txt
 ```
 
-본인 컴퓨터 버전에 맞는 pytorch 설치 https://pytorch.org/ 참고
+본인 컴퓨터 버전에 맞는 pytorch 설치 (https://pytorch.org/ 참고)
 ```
 pip3 install pytorch
 ```
-&nbsp;
 &nbsp;
 
 ### Discord server
@@ -25,7 +25,6 @@ pip3 install pytorch
 ```
 python3 main.py --weight [model weight]
 ```
-&nbsp;
 &nbsp;
 
 ### Model training
