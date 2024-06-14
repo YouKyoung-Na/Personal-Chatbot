@@ -15,6 +15,9 @@ pip install -r requirements.txt
 ```bash
 ├── dataset/
 │   └── README.md
+├── examples/
+│   ├── KoGPTbased_chatbot.ipynb
+│   └── evaluation.ipynb
 ├── model_weight/
 │   ├── train/
 │   ├── README.md
